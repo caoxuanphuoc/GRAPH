@@ -1,0 +1,39 @@
+﻿STEP1: CHỌN A LÀ ĐỈNH BAN ĐẦU, THÊM NÓ VÀO QUEUE
+STEP2: GỌI B LÀ PHẦN TỬ ĐẦU CỦA QUEUE
+	NẾU B CHƯA ĐƯỢC THĂM, THÊM CÁC ĐỈNH KỀ VỚI B VÀ QUEUE
+STEP3:  DANH DAU b DA THĂM VÀ XÓA B KHỎI QUEUE
+STEP4: NẾU QUEUE KHÁC RỖNG QUAY LẠY BƯỚC 2
+CTDL:
+VECTOR luu vi tri đã được duyêt
+QUEUE duyệt lân lượt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+dong đầu là n m || n so dinh va m là số cạnh
+
+7 7
+1 2 
+1 3
+2 4
+2 5
+3 6
+4 5
+5 7
+---------VI_DU_2-----------
+7 5
+1 2
+1 3
+2 4
+2 5
+6 7
